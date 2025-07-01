@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # DressIt_kotlin
-=======
+
 DressIt Android App 
 
 

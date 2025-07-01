@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="בית" />
+
+    <item
+        android:id="@+id/savedPostsFragment"
+        android:icon="@drawable/ic_bookmark"
+        android:title="שמורים" />
+
+    <item
+        android:id="@+id/addPostFragment"
+        android:icon="@drawable/ic_add_circle"
+        android:title="" />
+
+    <item
+        android:id="@+id/chartFragment"
+        android:icon="@drawable/ic_calendar"
+        android:title="הזמנות" />
+
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/ic_profile"
+        android:title="פרופיל" />
+</menu> 
